@@ -1,0 +1,6 @@
+# Dynamic configuration
+
+tls:
+  certificates:
+    - certFile: /path/to/domain.cert
+      keyFile: /path/to/domain.key
